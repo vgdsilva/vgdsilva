@@ -13,6 +13,8 @@
   <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vini-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  
 </div>
   
   ##
