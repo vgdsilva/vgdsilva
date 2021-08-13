@@ -1,7 +1,7 @@
 ### Olaa! Eu sou Vinicius Gaspararello da Silva
 
 - 🔭 Atualmente estou trabalhando como Testador Junior.
-- 🌱 Estou estudando C#, Flutter, JavaScript e Postgressql
+- 🌱 Estou estudando C#, Python, Kotlin, JavaScript e Postgressql
 - 📫 How to reach me: gasparellovinicius@gmail.com
 
 <div>
