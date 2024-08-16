@@ -25,8 +25,5 @@
 
 ###
 
-<br clear="both">
-
-### <img src="https://raw.githubusercontent.com/vgdsilva/vgdsilva/output/snake.svg" alt="Snake animation" />
 
 ###
