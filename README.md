@@ -1,3 +1,5 @@
-<h3 align="left">Hi 👋! My name is Vinicius</h3>
+# Vinicius Gasparello da Silva
+
+Analista de desenvolvimento | Desenvolvedor C# Full Stack
 
 
