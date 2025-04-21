@@ -16,14 +16,6 @@ Analista de desenvolvimento | Desenvolvedor C# Full Stack
     />
     <img 
         align="left" 
-        alt=".NET" 
-        title=".NET" 
-        width="30px" 
-        style="padding-right: 10px; vertical-align: middle;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
-    />
-    <img 
-        align="left" 
         alt="Vue.js" 
         title="Vue.js" 
         width="30px" 
