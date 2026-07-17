@@ -25,3 +25,6 @@ Tech Lead · C# / .NET ·
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+
+### Ferramentas
+![Claude Code](https://img.shields.io/badge/claude%20code-%23323330.svg?style=for-the-badge&logo=claude-code)
